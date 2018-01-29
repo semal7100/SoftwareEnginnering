@@ -10,6 +10,13 @@ Ans:<br>
    Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example, if the client wants his software to be in one programming language such as C#, the essential difficulty of implementing a C# compiler than using a standard C++ or java compiler. This represnts one type of essential difficulty.<br>
    
    With a lot of debugging and code refactoring, we can eliminate accidental difficulties(not entirely to zero) but the essential difficulties will always remain in the software. Due to this building a software is always going to be hard and hence comes the notion of No silver bullet being present in the field of software technology.<br>
+<br>
+Q.2) Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.<br>
+Ans:<br>
+    As Brooks divided the difficulties into essential and accidental, let us consider the accidental difficulties:<br>
+    Accidental difficulties are the ones which are related in the production of the software. These are the ones which are created by the engineer who is building the software system and also corrected by the engineer. However while resolving these difficulties, new ones may arise. So Brooks mentioned that we cannot reduce accidental difficulties to absolute zero.<br>
+    Most of thw tools in software engineering are focussed on resolving these accidental difficulties. According  to Brooks,one technology that had reduced accidental difficulties was the invention of high-level programming languages.
+    
  
  
   
