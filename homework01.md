@@ -13,11 +13,12 @@ Ans:<br>
 <br>
 Q.2) Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.<br>
 Ans:<br>
-
    As Brooks divided the difficulties into essential and accidental, let us consider the accidental difficulties:<br>  
-   Accidental difficulties are the ones which are related in the production of the software. These are the ones which are created by the engineer who is building the software system and also corrected by the engineer. However while resolving these difficulties with the help of software tools, new ones may arise. So Brooks mentioned that we cannot reduce accidental difficulties to absolute zero.<br>
+   Accidental difficulties are the ones which are related to the production of the software. These are the ones which are created by the engineer who is building the software system and also corrected by the engineer. However while resolving these difficulties with the help of software tools, new ones may arise. So Brooks mentioned that we cannot reduce accidental difficulties to absolute zero.<br>
     
-  Most of the tools in software engineering are focussed on resolving these accidental difficulties. According  to Brooks,one technology that had reduced accidental difficulties was the invention of high-level programming languages, such as FortRan.Brooks  also mentiones that reducing the accidental difficulties would not give the same order of improvement as compared to reducing the essential difficulties.<br>
+  Most of the tools in software engineering are focussed on resolving these accidental difficulties. According  to Brooks,one technology that had reduced accidental difficulties was the invention of high-level programming languages, such as FortRan.Brooks  also mentiones that reducing the accidental difficulties would not give the same order of improvement as compared to reducing the essential difficulties and thereby the concept of no silver bullet arises as some order of accidental difficulties will always sort of persist in the system.<br>
+  
+  An example of accidental difficulty is
     
     
     
