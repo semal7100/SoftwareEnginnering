@@ -5,7 +5,7 @@ Ans:<br>
  1. Essential difficulties  <br>
  2. Accidental difficulties <br>
   
- Essential difficulties as defined by Brooks are the ones that are inherent in the nature of the software. This involves the data sets,algorithms,functions and relationship among the data entities. These may be the same in many differnet representations, but each of them is highly detailed and precise. <br>
+ Essential difficulties as defined by Brooks are the ones that are inherent in the nature of the software. This involves the data sets,algorithms,functions and relationship among the data entities. These may be the same in many different representations, but each of them is highly detailed and precise. <br>
  
    Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example, . This represnts one type of essential difficulty.<br>
    
@@ -22,7 +22,17 @@ Ans:<br>
   <br>
   Q.3) List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.<br>
   Ans:<br>
+        The four essential difficulties of developing software systems that Brooks identifies are:<br>
+         1. complexity  <br>
+         2. conformity <br>
+         3. changeability  <br>
+         4. invisibility <br>
+  Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
+  Ans:<br>
+  According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years.<br>
   
+  Q.5)In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
+  Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
     
     
     
