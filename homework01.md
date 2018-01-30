@@ -30,7 +30,12 @@ Ans:<br>
          Let us discuss all of these in detail:<br>
          1.Complexity:<br>
          While constructing a software , one has to develop a large number of different software entities or subparts of a large software program.If one was devloping the same thing then we can reuse it by building a function or method according to object oriented or functional programming. So as the scope of the software increases the number of different entities also increases and also interactions between the different software entities.<br>
-         2.conformity:<br>
+         2.Conformity:<br>
+         3.Changeability:<br>
+         Software is always destined to change. At any moment of time, software can be improved or be asked to change based on the functions it executes. Change in software requirements can be disastrous in the middle of software development.So this is an essential difficulty. One can avoid this by adopting either an agile framework which supports changes in general or iterative development which changes the software in its next iteration after completing one full iteration of a particular software.<br>
+         4.Invisibility<br>
+         
+         
          
          
   Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
