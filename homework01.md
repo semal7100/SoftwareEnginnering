@@ -7,7 +7,7 @@ Ans:<br>
   
  Essential difficulties as defined by Brooks are the ones that are inherent in the nature of the software. This involves the data sets,algorithms,functions and relationship among the data entities. These may be the same in many different representations, but each of them is highly detailed and precise. <br>
  
-   Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example, . This represnts one type of essential difficulty.<br>
+   Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example,  . This represnts one type of essential difficulty.<br>
    
    With a lot of debugging and code refactoring, we can eliminate accidental difficulties(not entirely to zero) but the essential difficulties will always remain in the software. Due to this building a software is always going to be hard and hence comes the notion of No silver bullet being present in the field of software technology.<br>
 <br>
@@ -16,7 +16,7 @@ Ans:<br>
    As Brooks divided the difficulties into essential and accidental, let us consider the accidental difficulties:<br>  
    Accidental difficulties are the ones which are related to the production of the software. These are the ones which are created by the engineer who is building the software system and also corrected by the engineer. However while resolving these difficulties with the help of software tools, new ones may arise. So Brooks mentioned that we cannot reduce accidental difficulties to absolute zero.<br>
     
-  Most of the tools in software engineering are focussed on resolving these accidental difficulties. According  to Brooks,one technology that had reduced accidental difficulties was the invention of high-level programming languages, such as FortRan.Brooks  also mentiones that reducing the accidental difficulties would not give the same order of improvement as compared to reducing the essential difficulties and thereby the concept of no silver bullet arises as some order of accidental difficulties will always sort of persist in the system.<br>
+  Most of the tools in software engineering are focussed on resolving these accidental difficulties. According  to Brooks,one technology that had reduced accidental difficulties was the invention of high-level programming languages, such as FortRan.Brooks  also mentiones that reducing the accidental difficulties would not give the same order of improvement as compared to reducing the essential difficulties and thereby the concept of no silver bullet arises as some order of essential difficulties will always sort of persist in the system.<br>
   
   An example of accidental difficulty is: Say we build a mobile application and while using the mobile application the application the host mobile loses a lot of battery power. This can be fixed by an update or iteration in the software. This is an example of accidental difficulty.<br>
   <br>
@@ -35,7 +35,7 @@ Ans:<br>
          3.Changeability:<br>
          Software is always destined to change. At any moment of time, software can be improved or be asked to change based on the functions it executes. Change in software requirements can be disastrous in the middle of software development.So this is an essential difficulty. One can avoid this by adopting either an agile framework which supports changes in general or iterative development which changes the software in its next iteration after completing one full iteration of a particular software.<br>
          4.Invisibility:<br>
-         The internal structure of a software is very complicated and humoungus
+         The internal structure of a software is very complicated and 
          
          
          
