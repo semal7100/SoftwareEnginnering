@@ -27,9 +27,17 @@ Ans:<br>
          2. conformity <br>
          3. changeability  <br>
          4. invisibility <br>
+         Let us discuss all of these in detail:<br>
+         1.Complexity:<br>
+         While constructing a software , one has to develop a large number of different software entities or subparts of a large software program.If one was devloping the same thing then we can reuse it by building a function or method according to object oriented or functional programming. So as the scope of the software increases the number of different entities also increases and also interactions between the different software entities.<br>
+         2.conformity:<br>
+         
+         
   Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
   Ans:<br>
-  According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years.<br>
+  According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.<br>
+  This means that there is no out of the world cure for improving the software gain by one order of magnitude or 10x improvement.This 
+ is due to the two types of difficulties:essential and accidental.
   
   Q.5)In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
   Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
