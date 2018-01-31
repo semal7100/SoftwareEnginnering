@@ -20,8 +20,8 @@ Ans:<br>**
   
   An example of accidental difficulty is: Say we build a mobile application and while using the mobile application the application the host mobile loses a lot of battery power. This can be fixed by an update or iteration in the software. This is an example of accidental difficulty.<br>
   <br> 
-  Q.3) List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.<br>
-  Ans:<br> 
+  **Q.3) List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.<br>
+  Ans:<br>**
         The four essential difficulties of developing software systems that Brooks identifies are:<br>
          1. complexity  <br>
          2. conformity <br>
@@ -40,21 +40,21 @@ Ans:<br>**
          
          
          
-  Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
-  Ans:<br>
+**Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
+  Ans:<br>**
   According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.<br>
   This means that there is no out of the world cure for improving the software gain by one order of magnitude or 10x improvement.This 
  is due to the two types of difficulties:essential and accidental.<br>
     Most tools in software engineering tend to solve the accidental difficulties and try to reduce it to as small as possible. However essential difficulties still remain and they cannot be avoided as it will destroy the essence of software.So considering these two difficulties will always be present one magical cure cannot improve the performance tenfold.
   
-  Q.5)In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.<br>
-  Ans: <br>
+  **Q.5)In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.<br>
+  Ans: <br>**
   Let us first describe the relationship between a chemist (chemistry) and a chemical engineer (chemical engineering):<br>
   A chemist or field of chemistry gives us the exciting formulas and derivations developed throughout the years. A chemical engineer makes use of these methods in his own personal project in a manner that respects the project requirements. Some of these derivations have to be either combined to form a new derivation or even constrained a bit to achieve the result. For example, limiting the pH level of a substance requires combination of the acid and base in some proportions modeled relative to the outside world pH level.<br>
   Now, software engineering and its relationship to computer science can be defined using the same analogy:<br>
   Computer science is the combination of several concepts such as Operating Systems,Algorithms,Networking,Databases and many more. Each of these facets give fancy stuff that can be used. However in the real world the problem often requires a combination of these concepts and there are some external constraints such as cost which forces us to modify the fancy stuff to suit our goal. Software Engineering is the field which incorporates the requirements or constraints and considering the goal makes use of the fancy stuff in an ideal way.For example: we want to transfer content from one computer to another. This makes use of networking to send the packets via routers. Along with these we may need to incorporate some sort of security mechanism to make sure the packet is received by the intended recipient. We may also need some type of scheduling algorithm at the receiver side. So all these processed together constitute a software and defines the process of software engineering.
    
-  Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+  **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.**
     
     
     
