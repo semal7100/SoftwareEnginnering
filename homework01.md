@@ -1,3 +1,9 @@
+## CSCI 5828:Foundations of Software Engineering Homework 1
+
+### Collaborators
+### Shemal Somil Lalaji<br>
+### Rakesh
+
 **Q.1)Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty. <br>
 Ans:<br>**
     Brooks  mentioned that **there is no Silver Bullet in Software Engineering**. That means that there is no single development in software technology like in the field of Hardware, that by itself promises tenfold improvement within a decade.
