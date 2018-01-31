@@ -47,10 +47,12 @@ Ans:<br>**
         
 **Q.4) Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
   Ans:<br>**
-  According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.<br>
+  According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do tenfold improvement  in software productivity, reliability, and simplicity like electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.
+<br>
   This means that there is no out of the world cure for improving the software gain by one order of magnitude or 10x improvement.This 
  is due to the two types of difficulties:essential and accidental.<br>
-    Most tools in software engineering tend to solve the accidental difficulties and try to reduce it to as small as possible. However essential difficulties still remain and they cannot be avoided as it will destroy the essence of software.So considering these two difficulties will always be present one magical cure cannot improve the performance tenfold.
+    Most tools in software engineering tend to solve the accidental difficulties and try to reduce it to as small as possible. However essential difficulties still remain and they cannot be avoided as it will destroy the essence of software.So considering these two difficulties will always be present one magical cure cannot improve the performance tenfold.<br>
+    According to Brooks, the very nature of software and the complecity imbibed within it makes it difficult to have tenfold improvement.
   
   **Q.5) In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.<br>
   Ans: <br>**
@@ -94,3 +96,11 @@ Iteration is thus breaking down the software development into smaller chunks and
 With iteration, the project goes through a cycle where a detailed evaluation is performed to determine if any changes have to be considered to produce a satisfactory product at the end.
 Thus, the analysis on each iteration ensures that the project is leading in the right direction, and if not, an immediate and early stage of rectification is ensured. This avoids a late turning back when a considerable amount of work is performed and the product has to go through a revision.
 Iterative development is a key practice in the agile development methodology and it has been adopted in corporate development and has successfully resulted in a better software development cycle.
+
+ #### REFERENCES:
+- http://sebokwiki.org/wiki/The_Nature_of_Software
+- https://en.wikipedia.org/wiki/No_Silver_Bullet
+- http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
+- http://wiki.c2.com/?NoSilverBullet
+- https://blog.acolyer.org/2016/09/06/no-silver-bullet-essence-and-accident-in-software-engineering/
+ 
