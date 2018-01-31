@@ -50,7 +50,7 @@ Ans:<br>**
   According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do tenfold improvement  in software productivity, reliability, and simplicity like electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.
 <br>
   This means that there is no out of the world cure for improving the software gain by one order of magnitude or 10x improvement.This 
- is due to the two types of difficulties:essential and accidental.<br>
+ is due to the two types of difficulties:essential and accidental.According to Moore,the hard part of building software is the specification, design, and testing of this conceptual construct, not the labor of representing it and testing the fidelity of the representation. Because of this, software building is always very hard.<br>
     Most tools in software engineering tend to solve the accidental difficulties and try to reduce it to as small as possible. However essential difficulties still remain and they cannot be avoided as it will destroy the essence of software.So considering these two difficulties will always be present one magical cure cannot improve the performance tenfold.<br>
     According to Brooks, the very nature of software and the complecity imbibed within it makes it difficult to have tenfold improvement.
   
