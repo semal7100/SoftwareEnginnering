@@ -1,8 +1,8 @@
 ##  CSCI 5828:Foundations of Software Engineering Homework 1
 
 #### Collaborators:
-### Shemal Somil Lalaji
-### Rakesh Shivanand Margoor
+- Shemal Somil Lalaji
+- Rakesh Shivanand Margoor
 
 **Q.1)Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty. <br>
 Ans:<br>**
