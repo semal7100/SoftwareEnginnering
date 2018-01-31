@@ -61,7 +61,7 @@ Ans:<br>**
   Computer science is the combination of several concepts such as Operating Systems,Algorithms,Networking,Databases and many more. Each of these facets give fancy stuff that can be used. However in the real world the problem often requires a combination of these concepts and there are some external constraints such as cost which forces us to modify the fancy stuff to suit our goal. Software Engineering is the field which incorporates the requirements or constraints and considering the goal makes use of the fancy stuff in an ideal way.For example: we want to transfer content from one computer to another. This makes use of networking to send the packets via routers. Along with these we may need to incorporate some sort of security mechanism to make sure the packet is received by the intended recipient. We may also need some type of scheduling algorithm at the receiver side. So all these processed together constitute a software and defines the process of software engineering.
    
   **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
-  + Ans: <br>**
+   Ans: <br>**
 **Abstractions:**
 Abstraction in software engineering is creating a simple higher level interface to a combination of complex sub-systems. 
 Abstraction reduces the additional effort that has to be put in understanding the complexities of the multiple lower level systems and also avoids any duplication of a program or software. 
