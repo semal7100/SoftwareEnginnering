@@ -7,7 +7,7 @@ Ans:<br>**
   
  Essential difficulties as defined by Brooks are the ones that are inherent in the nature of the software. This involves the data sets,algorithms,functions and relationship among the data entities. These may be the same in many different representations, but each of them is highly detailed and precise. <br>
  
-   Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example,  . This represnts one type of essential difficulty.<br>
+   Essential difficulties are caused by the problem defintion and if the client wants the software to do something, then the software has to accomplish the required task. For example, to represent the entire software in a single piece of paer with all its specifications,data flow,control flow and other entities which define the software . This represents one type of essential difficulty.<br>
    
    With a lot of debugging and code refactoring, we can eliminate accidental difficulties(not entirely to zero) but the essential difficulties will always remain in the software. Due to this building a software is always going to be hard and hence comes the notion of No silver bullet being present in the field of software technology.<br>
 <br>
