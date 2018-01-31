@@ -25,7 +25,7 @@ Ans:<br>**
     
   Most of the tools in software engineering are **focussed on resolving these accidental difficulties**. According  to Brooks,**one technology that had reduced accidental difficulties was the invention of high-level programming languages, such as FortRan**.Brooks  also mentiones that **reducing the accidental difficulties would not give the same order of improvement as compared to reducing the essential difficulties and thereby the concept of no silver bullet arises as some order of essential difficulties will always sort of persist in the system.**<br>
   
-  An example of accidental difficulty is: Say we build a mobile application and while using the mobile application the application the host mobile loses a lot of battery power. This can be fixed by an update or iteration in the software. This is an example of accidental difficulty.<br>
+  An example of accidental difficulty is: Say we build a mobile application and while using the mobile application the host mobile loses a lot of battery power. This can be fixed by an update or iteration in the software. This is an example of accidental difficulty.<br>
   <br> 
   **Q.3) List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.<br>
   Ans:<br>**
