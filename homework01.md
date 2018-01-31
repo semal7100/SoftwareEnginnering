@@ -1,3 +1,4 @@
+
 ##  CSCI 5828:Foundations of Software Engineering Homework 1
 
 #### Collaborators:
@@ -8,8 +9,8 @@
 Ans:<br>**
     Brooks  mentioned that **there is no Silver Bullet in Software Engineering**. That means that there is no single development in software technology like in the field of Hardware, that by itself promises tenfold improvement within a decade.
      Brooks considered the difficulties that we encounter while developing a software product as being divided into two types of categories:<br>
- 1. Essential difficulties  <br>
- 2. Accidental difficulties <br>
+ - Essential difficulties  <br>
+ - Accidental difficulties <br>
   
  Essential difficulties as defined by Brooks are **the ones that are inherent in the nature of the software. This involves the data sets,algorithms,functions and relationship among the data entities. These may be the same in many different representations, but each of them is highly detailed and precise**. <br>
  
@@ -28,24 +29,22 @@ Ans:<br>**
   <br> 
   **Q.3) List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.<br>
   Ans:<br>**
-        The four essential difficulties of developing software systems that Brooks identifies are:<br>
-         1. complexity  <br>
-         2. conformity <br>
-         3. changeability  <br>
-         4. invisibility <br>
+        The four essential difficulties of developing software systems that Brooks identifies are:
+  - complexity  
+  - conformity 
+  - changeability  
+  - invisibility 
          Let us discuss all of these in detail:<br>
-         1.Complexity:<br>
+     - **Complexity**
          While constructing a software , one has to develop a large number of different software entities or subparts of a large software program.If one was developing the same thing then we can reuse it by building a function or method according to object oriented or functional programming. So as the scope of the software increases the number of different entities also increases and also interactions between the different software entities. This increases work in the software especially in the case of when a bug arrives when different components of the software have to be integrated.<br>
-         2.Conformity:<br>
+      - **Conformity**
          Conformity relates to the essence in which the software is build.Lets say we started building a software application using Python 2.7. However after a certain while, the policies of the company changes and the ne policies supported building software using Python 3.5. So the entire code that has been developed in Python 2.7 has to be changed to Python 3.5. So the software has to conform to the new requirements and these constitute an essential difficulty. This is a form of essential difficulty which affects the timeline of the software significantly and may change the scope of the project under consideration.
-         3.Changeability:<br>
+       - **Changeability**
          Software is always destined to change. At any moment of time, software can be improved or be asked to change based on the functions it executes. Change in the software can lead to generation of bugs as the components of the software tend to interact with each other. So a error cause due to changes can propogate through the entire software project.Change in software requirements can also be disastrous in the middle of software development.So this is an essential difficulty. One can avoid this by adopting either an agile framework which supports changes in general or iterative development which changes the software in its next iteration after completing one full iteration of a particular software.<br>
-         4.Invisibility:<br>
+        - **Invisibility:**
          The internal structure of a software is very complicated and not visible to the human eye. When we execute a software, what we tend to see is the working of the components of the software. However the components itself cannot be seen,feel or heard. The internal nature of the software is therefore said to be hidden to the end user. We can use to represent the software using UML,Class diagrams and Data flow diagram. However all of these give information about the flow of information inside the system. The flow of other things such as Memory,current is invisble to the user. Thus the software is hidden to the user and we cannot eliminate that as it constituents the fundamental structure of the software. Hence this is a form of essential difficulty.
          
-         
-         
-         
+        
 **Q.4)Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.<br>
   Ans:<br>**
   According to Brooks , there are no silver bullets in software engineering. He explained silver bullet as inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. He further states that one cannot expect ever to see twofold gains every two years as happens in hardware according to Moore's law.<br>
@@ -60,9 +59,9 @@ Ans:<br>**
   Now, software engineering and its relationship to computer science can be defined using the same analogy:<br>
   Computer science is the combination of several concepts such as Operating Systems,Algorithms,Networking,Databases and many more. Each of these facets give fancy stuff that can be used. However in the real world the problem often requires a combination of these concepts and there are some external constraints such as cost which forces us to modify the fancy stuff to suit our goal. Software Engineering is the field which incorporates the requirements or constraints and considering the goal makes use of the fancy stuff in an ideal way.For example: we want to transfer content from one computer to another. This makes use of networking to send the packets via routers. Along with these we may need to incorporate some sort of security mechanism to make sure the packet is received by the intended recipient. We may also need some type of scheduling algorithm at the receiver side. So all these processed together constitute a software and defines the process of software engineering.
    
-  **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
-   Ans: <br>**
-**Abstractions:**
+  **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.**
+   **Ans: <br>**
+- **Abstractions:**
 Abstraction in software engineering is creating a simple higher level interface to a combination of complex sub-systems. 
 Abstraction reduces the additional effort that has to be put in understanding the complexities of the multiple lower level systems and also avoids any duplication of a program or software. 
 It can also be used to break the problem into several understandable modular problems. Abstraction is a very important concept in Software Engineering as it helps in parallelizing, sharing, and reusing of the already built software. 
@@ -70,10 +69,10 @@ Another advantage of using abstraction can be security.
 Abstraction can be used to hide internal implementation of libraries or packages and yet make them available for others to use. 
 An interesting example of how abstraction simplifies the software engineering process can be depicted by considering the use of storing a file into a database. In order to store a file into a database, a file system is required. Now, while implementing file storage in DB, worrying about how to create a file system is a very low level problem and spending time on it makes the task more complicated. Instead, if we already have an abstraction of the file system, the same abstraction/API can be used by multiple developers to implement the required file storage feature in a DB.
 
-**Conversations:**
+- **Conversations:**
 Conversation is one of the key characteristic in software engineering which involves discussion among the customers, clients, developers and many others who are associated in the development of a given product. The conversation of the development team with the client ensures the specification is up to date. The conversation among the development team is also important as there are various instances where each other’s work is interdependent. To make sure the work done by one is used smoothly by the other, a detailed conversation either through face to face, or through documentation on tools like rally, Jira or pivotal has to be performed.
 
-**Specifications:**
+- **Specifications:**
 Specification is one of the core principles of software engineering which drives the implementation of a software. 
 Specification is required at all levels of software Engineering which includes requirements, code, design, test plans, development life cycles.
 Requirements generally can be in the form of business proposals, product description and various other specifics regarding the corresponding software.
@@ -86,19 +85,12 @@ In order to verify whether the built software has met all requirements, there ha
 A detailed specification on test-plans ensures no faulty software released into production.
 Hence, specification is a key role in the evolution of a software and appears at all stages of software engineering. 
 
-**Translation:**
+- **Translation:**
 Unlike hardware, software goes through a lot of changes during its course of time. The changes might be due to changes in the requirements, design, project structure etc. In order to accommodate these changes, the project goes into translation very often. Software cannot have a fixed blueprint throughout its implementation. Due to the continuous change in technologies, demand, Manpower and various other factors, translation is one of the important principles that a software has to adopt in order to be robust and flexible at all stages.
 
-**Iteration:**
+- **Iteration:**
 Every big project is implemented by dividing the project into subprojects with goals that can be achieved through a single step from a small unit of the development team. 
 Iteration is thus breaking down the software development into smaller chunks and repeating the cycles regularly. The main advantage of the iteration is to allow more flexibility for changes.
 With iteration, the project goes through a cycle where a detailed evaluation is performed to determine if any changes have to be considered to produce a satisfactory product at the end.
 Thus, the analysis on each iteration ensures that the project is leading in the right direction, and if not, an immediate and early stage of rectification is ensured. This avoids a late turning back when a considerable amount of work is performed and the product has to go through a revision.
 Iterative development is a key practice in the agile development methodology and it has been adopted in corporate development and has successfully resulted in a better software development cycle.
-    
-    
-    
- 
- 
-  
-    
