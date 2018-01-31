@@ -60,7 +60,41 @@ Ans:<br>**
   Now, software engineering and its relationship to computer science can be defined using the same analogy:<br>
   Computer science is the combination of several concepts such as Operating Systems,Algorithms,Networking,Databases and many more. Each of these facets give fancy stuff that can be used. However in the real world the problem often requires a combination of these concepts and there are some external constraints such as cost which forces us to modify the fancy stuff to suit our goal. Software Engineering is the field which incorporates the requirements or constraints and considering the goal makes use of the fancy stuff in an ideal way.For example: we want to transfer content from one computer to another. This makes use of networking to send the packets via routers. Along with these we may need to incorporate some sort of security mechanism to make sure the packet is received by the intended recipient. We may also need some type of scheduling algorithm at the receiver side. So all these processed together constitute a software and defines the process of software engineering.
    
-  **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.**
+  **Q.6)In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+  + Ans: <br>**
+ +**Abstractions:**
+ +Abstraction in software engineering is creating a simple higher level interface to a combination of complex sub-systems. 
+ +Abstraction reduces the additional effort that has to be put in understanding the complexities of the multiple lower level systems and also avoids any duplication of a program or software. 
+ +It can also be used to break the problem into several understandable modular problems. Abstraction is a very important concept in Software Engineering as it helps in parallelizing, sharing, and reusing of the already built software. 
+ +Another advantage of using abstraction can be security. 
+ +Abstraction can be used to hide internal implementation of libraries or packages and yet make them available for others to use. 
+ +An interesting example of how abstraction simplifies the software engineering process can be depicted by considering the use of storing a file into a database. In order to store a file into a database, a file system is required. Now, while implementing file storage in DB, worrying about how to create a file system is a very low level problem and spending time on it makes the task more complicated. Instead, if we already have an abstraction of the file system, the same abstraction/API can be used by multiple developers to implement the required file storage feature in a DB.
+ +
+ +**Conversations:**
+ +Conversation is one of the key characteristic in software engineering which involves discussion among the customers, clients, developers and many others who are associated in the development of a given product. The conversation of the development team with the client ensures the specification is up to date. The conversation among the development team is also important as there are various instances where each other’s work is interdependent. To make sure the work done by one is used smoothly by the other, a detailed conversation either through face to face, or through documentation on tools like rally, Jira or pivotal has to be performed.
+ +
+ +**Specifications:**
+ +Specification is one of the core principles of software engineering which drives the implementation of a software. 
+ +Specification is required at all levels of software Engineering which includes requirements, code, design, test plans, development life cycles.
+ +Requirements generally can be in the form of business proposals, product description and various other specifics regarding the corresponding software.
+ +With no requirements, the project does not exist, as there are no set of goals that have to be achieved. 
+ +A good specification avoids changeability problem, brings transparency between the client and the developers, reduces redundant work and importantly helps to plan, schedule and achieve the required software.
+ +Specifications at code level are also a critical factor, as it determines the use of abstraction and allows parallel development.
+ +Since a project is developed in modules by several developers sitting at different places; programming languages, their versions, the hardware and the developer environment has to be specified before it's implementation else
+ +a considerable amount of work has to be spent to integrate each other's work and would make the entire process complex, unstable and time consuming.
+ +In order to verify whether the built software has met all requirements, there has to be specification on how the tests are performed which should cover all scenarios of how the software can break. 
+ +A detailed specification on test-plans ensures no faulty software released into production.
+ +Hence, specification is a key role in the evolution of a software and appears at all stages of software engineering. 
+ +
+ +**Translation:**
+ +Unlike hardware, software goes through a lot of changes during its course of time. The changes might be due to changes in the requirements, design, project structure etc. In order to accommodate these changes, the project goes into translation very often. Software cannot have a fixed blueprint throughout its implementation. Due to the continuous change in technologies, demand, Manpower and various other factors, translation is one of the important principles that a software has to adopt in order to be robust and flexible at all stages.
+ +
+ +**Iteration:**
+ +Every big project is implemented by dividing the project into subprojects with goals that can be achieved through a single step from a small unit of the development team. 
+ +Iteration is thus breaking down the software development into smaller chunks and repeating the cycles regularly. The main advantage of the iteration is to allow more flexibility for changes.
+ +With iteration, the project goes through a cycle where a detailed evaluation is performed to determine if any changes have to be considered to produce a satisfactory product at the end.
+ +Thus, the analysis on each iteration ensures that the project is leading in the right direction, and if not, an immediate and early stage of rectification is ensured. This avoids a late turning back when a considerable amount of work is performed and the product has to go through a revision.
+ +Iterative development is a key practice in the agile development methodology and it has been adopted in corporate development and has successfully resulted in a better software development cycle.
     
     
     
